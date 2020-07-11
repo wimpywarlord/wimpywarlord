@@ -1,6 +1,5 @@
 # Wimpy Warlord 👽
 ![Follow Github](https://img.shields.io/github/followers/wimpywarlord?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge) ![Follow Twitter](https://img.shields.io/twitter/follow/kshitij_dhyani?color=%2317202A&label=Follow%20kshitij_dhyani&logo=twitter&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/wimpywarlord/Github_readme_template?color=%2317202A&label=STARS%20%F0%9F%8C%9F&logo=github&style=for-the-badge) 
-
 **I pump iron during the day and smash my keyboard in the night.🐙** 
 
 ## About Me 🐳
@@ -20,9 +19,6 @@ I 𝐥𝐨𝐯𝐞 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐜𝐨𝐦𝐩�
 ## Viewer 🏆
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=wimpywarlord.wimpywarlord)](https://github.com/wimpywarlord)
 
-
-## What I am currenlty Learning 🎯
-**Everything I find intresting and get attracted to.**
 
 ## Become my distraction (Social Media)🏅
 I am From **New Delhi**<img align="center" src="https://image.flaticon.com/icons/svg/2924/2924814.svg" alt="drawing" width="5%"/>
