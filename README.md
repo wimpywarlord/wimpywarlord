@@ -18,7 +18,7 @@ I 𝐥𝐨𝐯𝐞 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐜𝐨𝐦𝐩�
 
 
 ## Viewer 🏆
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wimpywarlord.wimpywarlord) (https://github.com/wimpywarlord)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=wimpywarlord.wimpywarlord)] (https://github.com/wimpywarlord)
 
 
 ## What I am currenlty Learning 🎯
