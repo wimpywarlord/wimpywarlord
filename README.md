@@ -10,11 +10,11 @@ I 𝐥𝐨𝐯𝐞 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐜𝐨𝐦𝐩�
 
 ## My hobbies🐶
 
-🔴 **Learning new technologies and creating something cool and usefull 🕵**
-🔴 **Power Lifting 💪**
-🔴 **Music 📣**
-🔴 **Rubix Cube 👓**
-🔴 **Beat Boxing 👑**
+🔴 **Learning new technologies and creating something cool and usefull**
+🔴 **Power Lifting**
+🔴 **Music**
+🔴 **Rubix Cube**
+🔴 **Beat Boxing**
 
 
 ## Viewer 🏆
