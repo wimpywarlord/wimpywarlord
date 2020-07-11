@@ -1,5 +1,6 @@
 # Wimpy Warlord 👽
 ![Follow Github](https://img.shields.io/github/followers/wimpywarlord?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge) ![Follow Twitter](https://img.shields.io/twitter/follow/kshitij_dhyani?color=%2317202A&label=Follow%20kshitij_dhyani&logo=twitter&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/wimpywarlord/Github_readme_template?color=%2317202A&label=STARS%20%F0%9F%8C%9F&logo=github&style=for-the-badge) 
+
 **I pump iron during the day and smash my keyboard in the night.🐙** 
 
 ## About Me 🐳
@@ -30,9 +31,3 @@ I am From **New Delhi**<img align="center" src="https://image.flaticon.com/icons
 | <a href="https://twitter.com/kshitij_dhyani"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/kshitij.dhyani.3"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="www.linkedin.com/in/kshitijdhyani/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |## License
 
 MIT © [Kshitij Dhyani](https://github.com/wimpywarlord)
-
-## Acknowledgments 💖
-
-* To my family👪  and friends 👫 who always kept me motivated.
-* To the community of computer science 💻.
-
