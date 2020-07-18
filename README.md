@@ -4,7 +4,6 @@ I am an 𝐮𝐧𝐬𝐭𝐨𝐩𝐩𝐚𝐛𝐥𝐞 𝐥𝐞𝐚𝐫𝐧𝐞�
 
 I 𝐥𝐨𝐯𝐞 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫𝐬 💻 and wake up every day only to immerse myself in the whole ecosystem of computers and technology. I enjoy learning new technologies and making creative yet innovative things which could help the world become a better place 📶. I am a confident and comforting presence to be around. A 𝐛𝐨𝐫𝐧 𝐥𝐞𝐚𝐝𝐞𝐫 with a constant desire to inspire and uplift everyone around me.
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=wimpywarlord.wimpywarlord)](https://github.com/wimpywarlord)
 [![Twitter Badge](https://img.shields.io/badge/-@kshitij_dhyani-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kshitij_dhyani)](https://twitter.com/kshitij_dhyani) [![Linkedin Badge](https://img.shields.io/badge/kshitijdhyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitijdhyani/)](https://www.linkedin.com/in/kshitijdhyani/)
 [![Gmail Badge](https://img.shields.io/badge/-wimpywarlord@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wimpywarlord@gmail.com)](mailto:wimpywarlord@gmail.com)
 ## Become my distraction (Social Media)🏅
