@@ -3,5 +3,5 @@
     Ｕｎｓｔｏｐｐａｂｌｅ　ｌｅａｒｎｅｒ
 </p>
 <p align="center">
-    <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=wimpywarlord&theme=radical">
+    <img src="https://komarev.com/ghpvc/?username=wimpywarlord&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" />
 </p>
