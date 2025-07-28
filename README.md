@@ -14,13 +14,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wimpywarlord&theme=dracula&hide_border=true&background=282A36&ring=BD93F9&fire=FF5555&currStreakLabel=F8F8F2" alt="GitHub Streak" />
 </div> -->
 
-<div align="center" style="margin-top: 30px;">
-  <!-- <h3 style="color: #F8F8F2; font-family: 'Fira Code', monospace;">
-  </h3> -->
+<!-- <div align="center" style="margin-top: 30px;">
+  <h3 style="color: #F8F8F2; font-family: 'Fira Code', monospace;">
+  </h3>
   <img src="https://img.shields.io/badge/JavaScript-F1FA8C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-50FA7B?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/React-8BE9FD?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-FF79C6?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-FF5555?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-BD93F9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
+</div> -->
